@@ -7,6 +7,8 @@ const FILES_TO_CACHE = [
     "/manifest.webmanifest",
     "/icons/icon-192x192.png",
     "/icons/icon-512x512.png",
+    "https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css",
+    "/assets/Budget.png",
   ];
   
   const CACHE_NAME = "static-cache-v2";
